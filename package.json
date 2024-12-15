@@ -1,0 +1,13 @@
+{
+  "name": "e2e-playwright-with-pom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ProjectCoder/e2e-playwright-with-pom.git",
+  "author": "Godsila <acgodsleeper@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  },
+  "scripts": {}
+}
